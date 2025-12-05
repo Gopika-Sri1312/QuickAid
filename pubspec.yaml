@@ -1,0 +1,18 @@
+name: quickaid
+description: A simple offline first-aid guide app.
+version: 1.0.0
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  sqflite: ^2.2.8+4
+  path_provider: ^2.0.14
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/first_aid.json
