@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "title": "Bleeding",
+    "steps": "Apply pressure with a clean cloth.\nRaise the injured area.\nSeek medical help if bleeding continues."
+  },
+  {
+    "id": "2",
+    "title": "Burns",
+    "steps": "Cool the burn under running water for 10 minutes.\nDo not apply ice.\nCover with a clean cloth."
+  },
+  {
+    "id": "3",
+    "title": "Choking",
+    "steps": "Ask the person to cough.\nIf unable to breathe, give 5 back blows.\nCall emergency services immediately."
+  },
+  {
+    "id": "4",
+    "title": "Fracture",
+    "steps": "Immobilize the injured area.\nApply ice pack.\nGet medical assistance quickly."
+  },
+  {
+    "id": "5",
+    "title": "Snake Bite",
+    "steps": "Keep the person calm.\nDo not suck the venom.\nTie a band above the bite (not too tight).\nGet emergency medical help."
+  },
+  {
+    "id": "6",
+    "title": "Heart Attack",
+    "steps": "Call emergency services.\nMake the person sit and relax.\nLoosen tight clothing.\nMonitor breathing."
+  },
+  {
+    "id": "7",
+    "title": "Fainting",
+    "steps": "Lay the person down.\nRaise their legs.\nLoosen tight clothing.\nAllow fresh air."
+  },
+  {
+    "id": "8",
+    "title": "Nosebleed",
+    "steps": "Sit upright.\nLean slightly forward.\nPinch the nose for 10 minutes."
+  },
+  {
+    "id": "9",
+    "title": "Sprain",
+    "steps": "Rest the injured area.\nApply ice.\nCompress with a bandage.\nElevate the limb."
+  },
+  {
+    "id": "10",
+    "title": "Heat Stroke",
+    "steps": "Move to a cool place.\nDrink water.\nApply cold wet cloth.\nSeek medical help."
+  }
+]
