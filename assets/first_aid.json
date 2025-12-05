@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Choking (Adult)",
+    "summary": "Perform Heimlich maneuver if conscious and cannot breathe.",
+    "steps": [
+      "Ask ‘Are you choking?’",
+      "If cannot speak/cough, stand behind them and give abdominal thrusts.",
+      "Repeat until object is expelled or person becomes unconscious."
+    ],
+    "warnings": "Do not perform abdominal thrusts on an unconscious person."
+  },
+  {
+    "id": 2,
+    "title": "Severe Bleeding",
+    "summary": "Control bleeding with firm pressure and elevation.",
+    "steps": [
+      "Wear gloves if available.",
+      "Apply direct pressure with a clean cloth.",
+      "Elevate limb above heart level if possible.",
+      "If bleeding persists, apply pressure bandage and seek emergency help."
+    ],
+    "warnings": "Do not remove embedded objects; pad around them."
+  },
+  {
+    "id": 3,
+    "title": "Burns (Minor)",
+    "summary": "Cool burn with running water and cover loosely.",
+    "steps": [
+      "Remove from source of heat.",
+      "Cool under running water for 10–20 minutes.",
+      "Cover with sterile, non-stick dressing.",
+      "Seek medical help for larger or deep burns."
+    ],
+    "warnings": "Do not apply ice, butter, or toothpaste."
+  }
+]
